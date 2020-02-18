@@ -1,4 +1,4 @@
 # TabLayoutDemo
 TabLayout使用示例
 
-![image](https://github.com/Yedongsheng/Picture/tree/master/TabLayoutDemo/pic01.jpg)
+![TabLayoutDemo截图](https://github.com/Yedongsheng/Picture/blob/master/TabLayoutDemo/pic01.png)
